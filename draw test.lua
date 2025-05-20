@@ -31,4 +31,4 @@ while os.time() - start < duration do
     view:invalidate() -- refresh view supaya onDraw dipanggil ulang
 end
 
-view:close()
+view:close()q
