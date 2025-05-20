@@ -1,4 +1,4 @@
-disDrawAcc()
+disDrawAcc()q
 
 local paint = newPaint()
 paint:setColor("#FF0000")  -- merah
